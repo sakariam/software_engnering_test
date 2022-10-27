@@ -5,7 +5,7 @@ public class Main {
     {
         int year = 2200;
         if (leap_year.check_Leap_Year(year)==1)
-            System.out.printf("Year %d is a leap year\n", year);
+            System.out.printf("Year %d is an leap year\n", year);
         else
             System.out.printf("Year %d is not a leap year\n", year);
     }
