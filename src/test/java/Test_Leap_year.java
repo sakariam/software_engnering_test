@@ -3,7 +3,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import sakariam.itstud.software.modules.leap_year;
 import org.junit.jupiter.api.Test;
 
-public class test_Leap_year {
+public class Test_Leap_year {
     private leap_year year = new leap_year();
 
     @Test
